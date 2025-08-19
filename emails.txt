@@ -1,0 +1,17 @@
+test123@gmail.com
+support@mywebsite.com
+hello.world@yahoo.in
+john.doe@company.com
+priya.k@company.org
+support_it@company.net
+manager123@projects.company.com
+dev.team@company.io
+qa_team@company.co.in
+contact@microsoft.com
+careers@google.co
+aws-support@amazon.in
+hr@infosys.com
+ramesh123@gmail.com
+anita.work@yahoo.com
+alex.smith@hotmail.com
+chen.li@outlook.cn
